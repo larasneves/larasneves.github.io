@@ -1,4 +1,4 @@
-permalink: "javascript:void(0);"
+
 ---
 title: "Paper Title Number 4"
 collection: publications
