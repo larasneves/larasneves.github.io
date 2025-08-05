@@ -9,4 +9,3 @@ paperurl: "https://arxiv.org/abs/2507.20894/"
 citation: 'Neves, L., Lourenço, A., Cano, A., & Marreiros, G. (2025). Online hierarchical partitioning of the output space in extreme multi-label data streams. GECAD, ISEP, Polytechnic of Porto; Virginia Tech.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
