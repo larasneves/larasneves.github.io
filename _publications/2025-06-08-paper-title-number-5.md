@@ -6,6 +6,4 @@ excerpt: 'This paper presents iHOMER, a novel framework for online multi-label l
 date: 2025-10-30
 venue: 'European Conference on Artificial Intelligence (ECAI)'
 paperurl: "https://arxiv.org/abs/2507.20894/"
-citation: 'Neves, L., Lourenço, A., Cano, A., & Marreiros, G. (2025). Online hierarchical partitioning of the output space in extreme multi-label data streams. GECAD, ISEP, Polytechnic of Porto; Virginia Tech.'
 ---
-
