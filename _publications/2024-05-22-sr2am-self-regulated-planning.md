@@ -3,7 +3,10 @@ title: "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning"
 collection: publications
 category: conferences
 permalink: /publication/2026-05-22-sr2am-self-regulated-planning
-excerpt: 'SR²AM equips a single LLM with internal “System I” (reactive), “System II” (simulative planning via a learned world model), and “System III” (self-regulation over planning depth and action vs. simulation). A configurator determines when and how far to simulate, enabling 30B models to rival 685B, 1T models at a fraction of the token cost. Thinking longer doesn’t always mean thinking smarter, SR²AM lets the LLM know when to simulate ahead, when to act directly, and when to balance both for optimal performance.'
+excerpt: |
+  SR²AM equips a single LLM with internal “System I” (reactive), “System II” (simulative planning via a learned world model), and “System III” (self-regulation over planning depth and action vs. simulation). A configurator determines when and how far to simulate, enabling 30B models to rival 685B, 1T models at a fraction of the token cost. Thinking longer doesn’t always mean thinking smarter, SR²AM lets the LLM know when to simulate ahead, when to act directly, and when to balance both for optimal performance.
+
+  Project website: https://sailing-lab.github.io/sr2am-self-regulated-planning/
 date: 2026-05-22
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2605.22138'
