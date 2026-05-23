@@ -1,5 +1,5 @@
 ---
-title: "SR²AM: Self-Regulated Simulative Planning in Large Language Models"
+title: "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning"
 collection: publications
 category: conferences
 permalink: /publication/2024-05-22-sr2am-self-regulated-planning
