@@ -31,6 +31,7 @@ Internships
   
 Awards
 ======
+* 1st Place Master Thesis Award - 𝟭𝟲𝘁𝗵 𝗙𝗿𝗮𝘂𝗻𝗵𝗼𝗳𝗲𝗿 𝗣𝗼𝗿𝘁𝘂𝗴𝗮𝗹 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 2025
 * R&D FLAD (Luso-American Development Foundation) Scholarship 2025
 * Top 5% Merit Board, Biomedical Engineering 2023
 * Winning Team, Deloitte Case Study Competition, MYD Coimbra, Portugal, 2023
